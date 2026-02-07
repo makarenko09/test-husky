@@ -1,0 +1,12 @@
+{
+  "module" : "gradle-java",
+  "date" : "2026-02-07T04:59:02.989188885Z",
+  "properties" : {
+    "projectName" : "Seed4J Sample Application",
+    "baseName" : "seed4jSampleApplication",
+    "nodePackageManager" : "npm",
+    "endOfLine" : "lf",
+    "indentSize" : 2,
+    "packageName" : "com.mycompany.myapp"
+  }
+}
